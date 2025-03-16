@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KMPSharingNativeUIComponent</string>
+    <string name="android_native_button">Android Native button</string>
 </resources>
